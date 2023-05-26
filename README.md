@@ -8,4 +8,4 @@ The management of the attendance can be a great burden on the teachers if it is 
 - Face Recognition
 - Marking attendance
 
-<img src="FRONT.png" width="180" title="hover text" >
+<img src="FRONT.png" width="900" title="hover text" >
