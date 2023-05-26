@@ -8,4 +8,4 @@ The management of the attendance can be a great burden on the teachers if it is 
 - Face Recognition
 - Marking attendance
 
-<img src="https://github.com/amayananayakkara/instaUI/blob/main/JPG/Sign%20Up-%20social%20mediafig.jpg" width="180" title="hover text" >
+<img src="FRONT.png" width="180" title="hover text" >
