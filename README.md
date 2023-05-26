@@ -10,7 +10,23 @@ The management of the attendance can be a great burden on the teachers if it is 
 
 <img src="PROCESS.png" width="900" title="hover text" >
 
+<h5>Screenshots of my final project output have included in the below table.</h5>
+
  |  |
 | :---: | 
 | <img src="FRONT.png" width="900" title="hover text" > |
-| Sign In page(Facebook </br>or Googe) |
+|Front end Graphical User Interface|
+| <img src="DETAILS.png" width="900" title="hover text" > |
+| Registering a new student by giving required details |
+| <img src="IMAGE TAKING 1.png" width="900" title="hover text" > |
+| Taking the images for the registration process (with spectacles) |
+| <img src="IMAGE TAKING 2.png" width="900" title="hover text" > |
+| Taking the images for the registration process (without spectacles) |
+| <img src="PROFILE SAVING.png" width="900" title="hover text" > |
+| Succesfully saved profile |
+| <img src="ATTENDANCE TAKING 1.png" width="900" title="hover text" > |
+| Taking the attendance of a registered student |
+| <img src="ATTENDANCE RECORD 1.png" width="900" title="hover text" > |
+| Attendance Record after succesfully taking the attendance |
+| <img src="ATTENDANCE TAKING 2.png" width="900" title="hover text" > |
+| Taking the attendance of an unregistered student |
