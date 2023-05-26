@@ -12,5 +12,5 @@ The management of the attendance can be a great burden on the teachers if it is 
 
  |  |
 | :---: | 
-| <img src="https://github.com/amayananayakkara/instaUI/blob/main/JPG/Sign%20Up-%20social%20mediafig.jpg" width="180" title="hover text" > |
+| <img src="FRONT.png" width="900" title="hover text" > |
 | Sign In page(Facebook </br>or Googe) |
